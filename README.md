@@ -11,3 +11,4 @@ https://www.womenwhocode.com/days-of-code
 - Day 1 -- Create a program that swaps the values of two variables. 
 - Day 2 -- Create a program to calculate the area of a circle based on its radius.
 - Day 3 -- Write a function to count the number of vowels in a given string.
+- Day 4 -- Write a program to find the sum of all elements in a list.
