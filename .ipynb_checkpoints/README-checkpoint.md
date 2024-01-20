@@ -16,3 +16,4 @@ https://www.womenwhocode.com/days-of-code
 - Day 6 -- Write a program to count the occurrences of a specific character in a string.
 - Day 7 -- Write a program to check if a number is positive, negative, or zero.
 - Day 8 -- Write a function that accepts a string and calculates the number of uppercase and lowercase letters in it.
+- Day 9 -- Write a program to remove duplicates from a list.
