@@ -20,3 +20,4 @@ https://www.womenwhocode.com/days-of-code
 - Day 10 -- Write a program to remove duplicates from a list.
 - Day 11 -- Write a program to print the multiplication table of a given number.
 - Day 12 -- Write a program to reverse a given string.
+- Day 13 -- Write a program to shuffle the elements of a list randomly.
