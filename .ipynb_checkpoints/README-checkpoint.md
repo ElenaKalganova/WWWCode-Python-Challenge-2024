@@ -26,3 +26,4 @@ https://www.womenwhocode.com/days-of-code
 - Day 16 -- Write a function that counts the frequency of each word in a sentence.
 - Day 17 -- Create a program that capitalizes the first letter of each word in a sentence.
 - Day 18 -- Create a program to find the largest among three numbers.
+- Day 19 -- Write a function to calculate the factorial of a number.
