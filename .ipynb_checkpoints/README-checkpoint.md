@@ -27,3 +27,4 @@ https://www.womenwhocode.com/days-of-code
 - Day 17 -- Create a program that capitalizes the first letter of each word in a sentence.
 - Day 18 -- Create a program to find the largest among three numbers.
 - Day 19 -- Write a function to calculate the factorial of a number.
+- Day 20 -- Write a function that takes a list of numbers and returns a new list containing only the even numbers.
