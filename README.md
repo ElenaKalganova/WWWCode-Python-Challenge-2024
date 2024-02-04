@@ -31,3 +31,5 @@ https://www.womenwhocode.com/days-of-code
 - Day 21 -- Create a program to remove a specific element from a set.
 - Day 22 -- Create a program to find the second-largest element in a list.
 - Day 23 -- Write a program that checks if a key exists in a dictionary.
+- Day 24 -- Write a program to remove vowels from a given string.
+- Day 25 -- Create a program to concatenate two lists.S
