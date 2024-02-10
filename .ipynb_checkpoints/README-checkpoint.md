@@ -38,3 +38,4 @@ https://www.womenwhocode.com/days-of-code
 - Day 28 -- Create a program that removes the nth element from a list.
 - Day 29 -- Create a function that generates a random number between a given range.
 - Day 30 -- Create a function that finds the second smallest element in a list.
+- Day 31 -- Create a program that checks if a given string is a valid email address.
